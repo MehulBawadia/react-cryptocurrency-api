@@ -9,6 +9,17 @@
   color: #fff;
 }
 
+.sourceCodeLink {
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 1rem;
+}
+
+.sourceCodeLink:hover, .sourceCodeLink:focus {
+  text-decoration: underline;
+  outline: none;
+}
+
 .coin-app {
   display: flex;
   flex-direction: column;

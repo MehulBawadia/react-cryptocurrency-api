@@ -30,6 +30,13 @@ function App() {
 
   return (
     <div className="coin-app">
+      <a
+        className="sourceCodeLink"
+        href="https://github.com/MehulBawadia/react-cryptocurrency-api"
+      >
+        View the source code
+      </a>
+
       <div className="coin-search">
         <h1 className="coin-text">Search Currency</h1>
 
